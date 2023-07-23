@@ -1,0 +1,210 @@
+body {
+    background: #01081a;
+    font-family: "Nunito", sans-serif;
+    color: #fff;
+}
+
+
+
+
+.logo-top {
+    height: 40px;
+    margin-right: 10px;
+    
+}
+.holder {
+width: 100%;
+}
+.icon {
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 80px;
+    margin-bottom: 30px;
+
+}
+
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+    
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 1.5rem;
+    
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.navbar.scrolled {
+    background: #01081a;
+    transition: background 500ms;
+    -webkit-transition: background 500ms;
+    -moz-transition: background 500ms;
+    -ms-transition: background 500ms;
+    -o-transition: background 500ms;
+}
+
+hr {
+    
+    background-color: #011a30;
+}
+
+
+p {
+    letter-spacing: 2px;
+}
+.world-connect {
+    width: 100%;
+    height: 200px;
+    padding: 0;
+    margin: 0;
+}
+
+.col {
+    padding: 20px;
+    margin: 20px auto
+    
+}
+
+
+.col-md-6 {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px auto;
+}
+.wraper-home-vision-section {
+    width: 100%;
+}
+#tradingview_88d0b-wrapper {
+    margin: 0;
+}
+ 
+.tradingview-widget-container {
+    margin-left: 30px;
+    margin-right: 100px;
+    
+    padding-bottom: 20px;
+}
+.wraper-home-vision-section
+
+ .homebanner-main {
+    margin-top: 100px;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    letter-spacing: 8px;
+    margin-right: 12px;
+    margin-left: 12px;
+ 
+ }
+ .homebanner-additional > .container {
+    padding-top: 18px;
+    padding-bottom: 18px;
+   
+ }
+
+    
+ 
+ .banner-social-icons {
+    vertical-align: top;
+    font-size: 0;
+ }
+ .banner-social-icons li {
+    vertical-align: top;
+    margin-right: 12px;
+ }
+ .banner-social-icons li a{
+    box-sizing: border-box;
+    border: 2px solid #212529;
+    border-radius: 50%;
+    border-color: #212529;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    color: #677683;
+    line-height: 1;
+    transition: all 0.3s ease-in-out;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+}
+ 
+ .btn:focus {
+    box-shadow: initial;
+ }
+ .btn.btn-white {
+    background-color: #fff;
+    border-color: #fff;
+    color: #01081a;
+
+ }
+ .btn.btn-white:hover, .btn.btn-white:active, .btn.btn-white:visited {
+    color: #011a30;}
+
+ a, a:hover,  a:visited {
+    color: #01081a;
+ }
+.btn.btn-rounded {
+    margin-top: 40px;
+    padding: 15px 45px 16px 45px;
+    border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;
+}
+.btn {
+    margin: 0 auto;
+    
+    border: 2px solid;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.);
+    font-family: 'roboto', Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.25;
+    white-space: normal;
+    display: inline-block;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+}
+
+
+
+
+
+
+
+
+
