@@ -1,6 +1,6 @@
 # Blockchain
-<img src="docs/images/blockchain1.png" alt="Banner image">
+![Header](/assets/images/blockchain1.png)
 
-<img src="docs/images/blockchainChart.png" alt="Chart image">
+![Chart](/assets/images/BlockchainChart.png)
 
 ### <a href="https://rickylambert87.github.io/blockchain/">Open Website</a>
